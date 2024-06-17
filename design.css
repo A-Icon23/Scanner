@@ -1,5 +1,5 @@
 body {
-    background-image: url(backgnd.webp);
+    background-image: url(backgnd1.jpg);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -19,4 +19,8 @@ body {
     align-items: center;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba (0, 0, 0, 0.1);
+}
+
+.card {
+    background-color:white;
 }
